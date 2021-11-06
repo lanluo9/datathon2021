@@ -1,0 +1,155 @@
+wave 1 
+--- 
+wave 2
+
+"income"
+ 'se009': 'household income',
+ 'se009a': 'Type of income received',
+ 'se009d': 'annual income: urban and rural quintiles calculated separately',
+ 'se009a1': 'income: Wages and salaries',
+ 'se009a2': 'income: Rentals of property or any asset',
+ 'se009a3': 'income: Business income',
+ 'se009a4': 'income: Gift_help from relatives and other people',
+ 'se009a5': 'income: Pension and retirement benefits',
+ 'se009a6': 'income: other',
+ 'se009a7': 'no income',
+ ---
+ 'se9': 'Monthly Household Income',
+ 'se9a': 'Does the total income of your household allow you to satisfactorily cover your needs?',
+
+ 
+ "econo"mic condition of country and family
+ 'q001': 'How would you rate the overall economic condition of our country today?',
+ 'q002': 'How would you describe the change in the economic condition of our country over the past five years?',
+ 'q003': "What do you think will be the state of our country's economic condition five years from now?",
+ 'q004': 'As for your own family, how do you rate your economic situation today?',
+ 'q005': 'How would you compare the current economic condition of your family with what it was five years ago?',
+ 'q006': 'What do you think the economic situation of your family will be five years from now?',
+ ---
+ 'q1': 'How would you rate the overall economic condition of our country today?',
+ 'q2': 'How would you describe the change in the economic condition of our country over the last years?',
+ 'q3': "What do you think will be the state of our country's economic condition a few years from now?",
+ 'q4': 'As for your own family, how do you rate your economic situation today?',
+ 'q5': 'How would you compare the current economic condition of your family with what it was a few years ago?',
+ 'q6': 'What do you think the economic situation of your family will be a few years from now?',
+
+ 
+ legitimacy
+ 'q111': 'Economic development- is better than before?',
+ 'q119': 'choose between democracy and economic development?',
+ ---
+ 'q123': 'If you had to choose between democracy and economic development, which would you say is more important?',
+
+
+traditionism 
+ 'q064': "Even if parents' demands are unreasonable, children still should do what they ask?",
+ 'q065': 'When hiring someone, even if a stranger is more qualified, the opportunity should still be given to relatives and friends?',
+ 'q066': 'When one has a conflict with a neighbor, the best way to deal with it is to accommodate the other person?',
+ 'q067': 'Wealth and poverty, success and failure are all determined by fate?',
+ 'q068': 'A person should not insist on his own opinion if his co-workers disagree with him?',
+ 'q069': 'For the sake of the family, the individual should put his personal interests second?',
+ 'q070': 'A man will lose face if he works under a female supervisor?',
+ 'q071': 'If there is a quarrel, we should ask an elder to resolve the dispute?',
+ 'q072': 'When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother?',
+ ---
+ 'q56': "Even if parents' demands are unreasonable, children still should do what they ask",
+ 'q57': 'Being a student, one should not question the authority of their teacher',
+ 'q58': 'When one has conflict with a neighbor, the best way to deal with it is to accommodate the other person',
+ 'q59': 'A person should not insist on his own opinion if his co-workers disagree with him',
+ 'q60': 'For the sake of the family, the individual should put his personal interests second',
+ 'q61': "Sometimes one has to follow one's own beliefs regardless of what other people think",
+ 'q62': "When dealing with others, securing one's immediate interests should be more important than developing a long-term",
+ 'q63': 'Open quarrels (criticisms) among politicians are harmful to society',
+ 'q64': 'The relationship between the government and the people should be like that between parents and children',
+ 'q65': 'People should always support the decisions of their government even if they disagree with them',
+
+
+trust and satisfaction in institution
+ 'q007': 'How much trust do you have in the courts?',
+ 'q008': 'How much trust do you have in the national government?',
+ 'q009': 'How much trust do you have in political parties?',
+ 'q010': 'How much trust do you have in Parliament?',
+ 'q011': 'How much trust do you have in civil service?',
+ 'q012': 'How much trust do you have in the military?',
+ 'q013': 'How much trust do you have in the police?',
+ 'q014': 'How much trust do you have in local government?',
+ 'q015': 'How much trust do you have in newspapers?',
+ 'q016': 'How much trust do you have in television?',
+ 'q017': 'How much trust do you have in the election commission?',
+ 'q018': 'How much trust do you have in non-governmental organizations?',
+ 'q098': 'Satisfaction with the way democracy works in our country?',
+ 'q104': 'How satisfied or dissatisfied are you with the current government?',
+ ---
+ 'q7': 'Trust in Prime Minister or president',
+ 'q8': 'Trust in the Courts',
+ 'q9': 'Trust in the national government',
+ 'q10': 'Trust in Political parties',
+ 'q11': 'Trust in Parliament',
+ 'q12': 'Trust in Civil service',
+ 'q13': 'Trust in the military(or armed forces)',
+ 'q14': 'Trust in the police',
+ 'q15': 'Trust in local government',
+ 'q16': 'Trust in newspaper',
+ 'q17': 'Trust in television',
+ 'q18': 'Trust in the election commission(Singapore: International TV)',
+ 'q19': 'Trust in NGOs',
+ 'q93': 'On the whole, how satisfied or dissatisfied are you with the way democracy works in [country]?',
+ 'q99': 'How satisfied or dissatisfied are you with the [name of present] government?',
+
+ 
+ political participation
+ 'q023': 'How often do you discuss politics?',
+ 'q027': 'Have you participated in last election?',
+ 'q029': 'Did you attend a campaign meeting or rally?',
+ 'q030': 'Did you try to persuade others to vote for a certain candidate or party?',
+ 'q031': 'Did you do anything else to help or show your support for a party or candidate running in the election?',
+ 'q056': 'How interested would you say you are interested in politics?',
+ 'q057': 'How often do you follow news about politics?',
+ 'q057a': None,
+ 'q058': 'How often do you follow news about politics in the daily newspaper?',
+ 'q059': 'How often do you follow news about politics on television?',
+ 'q060': 'How often do you follow news about politics on the radio?',
+ 'q073': 'Contacted any government official to express your opinions?',
+ 'q074': 'Contacted officials to express your opinions at higher level?',
+ 'q075': 'contacted elected legislative representatives at any level?',
+ 'q076': 'Contacted political parties or other political organizations?',
+ 'q077': 'Contacted non-government/civil society organizations?',
+ 'q078': 'Contacted media to comment on something?',
+ 'q079': 'Demonstrated, striken, or sat-in for something?',
+ 'q080': 'Contacted other people?',
+ ---
+ 'q52': 'When you get together with your family members or friends, how often do you discuss political matters?',
+ 'q38': 'Have you voted in the last election?',
+ 
+
+EFFICACY, CITIZEN EMPOWERMENT
+ 'q126': 'I have the ability to participate in politics',
+ 'q127': "Politics and government seems so complicated that a person like me can't really understand what is going on",
+ 'q128': 'The nation is run by a powerful few and ordinary citizens cannot do much about it',
+ 'q129': "People like me don't have any influence over what the government does",
+ 'q130': 'Our form of government is still the best for us',
+ 'q131': 'You can generally trust the people who run our government to do what is right',
+ ---
+ 'q126': 'I have the ability to participate in politics',
+ 'q127': "Politics and government seems so complicated that a person like me can't really understand what is going on",
+ 'q128': 'The nation is run by a powerful few and ordinary citizens cannot do much about it',
+ 'q129': "People like me don't have any influence over what the government does",
+ 'q130': 'Our form of government is still the best for us',
+ 'q131': 'You can generally trust the people who run our government to do what is right',
+ 
+ 
+negative exp with government
+ 'q108': 'Corruption in politics and government is under control- is better than before?',
+ 'q114': 'How widespread corruption in your local/municipal government?',
+ 'q115': 'How widespread corruption in the national government?',
+ 'q116': 'anyone you know personally witnessed an act of corruption?',
+ 'q116e': 'anyone you know personally witnessed ?',
+ 'q116_1': 'If witnessed: personally witnessed',
+ 'q116_2': 'If witnessed: family member witnessed',
+ 'q116_3': 'If witnessed: friend witnessed',
+ ---
+ 'q108': 'Corruption in politics and government is under control- is better than before?',
+ 'q114': 'How widespread corruption in your local/municipal government?',
+ 'q115': 'How widespread corruption in the national government?',
+ 'q116': 'anyone you know personally witnessed an act of corruption?',
+ 'q116e': 'anyone you know personally witnessed ?',
